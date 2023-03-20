@@ -1,4 +1,4 @@
-require('dotenv').config({path:'.env'});
+require('dotenv').config({path:'D:\Dashboard\Dashtar\dashtar-react-ecommerce-admin-template\dashtar\dashtar-backend\.env'});
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
