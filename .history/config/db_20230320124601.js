@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config(_;
 const mongoose = require('mongoose');
 
 console.log("check url",process.env.MONGO_URI)
